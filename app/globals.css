@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'neodgm';
+	src: url('../public/font/neodgm.ttf')format('truetype');
+}
